@@ -8,6 +8,7 @@ If Interested check this [Out](https://www.udemy.com/react-redux/)?
 
 #To Start
 
+```
 > npm install
 > npm start
 ```
